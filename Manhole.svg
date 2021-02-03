@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15, custom)"
+   sodipodi:docname="Manhole.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.58990024"
+     inkscape:cx="424.10866"
+     inkscape:cy="572.7705"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       aria-label="l"
+       id="text1999"
+       style="font-style:normal;font-weight:normal;font-size:214.286px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:5.35715">
+      <path
+         d="m 180.0001,148.49999 q 0,15.42859 -6.00001,29.1429 -5.78572,13.7143 -16.07145,24.00003 -10.07144,10.07144 -23.78575,16.07145 -13.7143,5.78572 -29.14289,5.78572 -15.428592,0 -29.142896,-5.78572 Q 62.1428,211.71436 51.857072,201.64292 41.785631,191.35719 35.785623,177.64289 q -5.785722,-13.71431 -5.785722,-29.1429 0,-15.42859 5.785722,-29.14289 Q 41.785631,105.64279 51.857072,95.571352 62.1428,85.285624 75.857104,79.499903 89.571408,73.499895 105,73.499895 q 15.42859,0 29.14289,6.000008 13.71431,5.785721 23.78575,16.071449 10.28573,10.071438 16.07145,23.785748 6.00001,13.7143 6.00001,29.14289 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'ESRI AMFM Water';-inkscape-font-specification:'ESRI AMFM Water';fill:#ffffff;stroke-width:5.35715"
+         id="path2028" />
+    </g>
+    <g
+       aria-label="2"
+       id="text1995"
+       style="font-style:normal;font-weight:normal;font-size:214.9px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:5.37251"
+       transform="translate(87.013299,-5.382264)">
+      <path
+         d="m 92.986799,153.77482 q 0,31.1605 -21.9198,53.08029 -21.9198,21.9198 -53.0803,21.9198 -30.945599,0 -53.080298,-22.1347 -21.919799,-21.48999 -21.919799,-52.86539 0,-31.1605 22.349599,-53.08031 22.134699,-21.704892 52.650498,-21.704892 31.1605,0 53.0803,21.919792 21.9198,21.91981 21.9198,52.86541 z m -100.3582995,0 q 0,5.1576 1.9341,9.6705 1.9341,4.298 5.3725,7.7364 3.4384,3.4384 7.9513,5.3725 4.5129005,1.9341 9.6704995,1.9341 5.1576,0 9.6705,-1.9341 4.5129,-1.9341 7.9513,-5.3725 3.4384,-3.4384 5.3725,-7.7364 1.9341,-4.5129 1.9341,-9.6705 0,-4.9427 -1.9341,-9.4556 -1.9341,-4.5129 -5.3725,-7.7364 -3.4384,-3.4384 -7.9513,-5.3725 -4.5129,-1.9341 -9.6705,-1.9341 -5.157599,0 -9.6704995,1.9341 -4.5129,1.9341 -7.9513,5.3725 -3.4384,3.2235 -5.3725,7.7364 -1.9341,4.5129 -1.9341,9.4556 z m -22.5644985,-42.5502 q -14.6132,16.1175 -16.1175,37.6075 H -14.2483 q 0.644699,-4.298 2.363899,-7.9513 1.7192,-3.6533 4.0831005,-6.8768 z m 111.962898,37.6075 q -1.934101,-21.2751 -15.2579,-37.1777 l -23.2092,23.639 q 2.149,3.0086 3.6533,6.447 1.5043,3.2235 2.149,7.0917 z m -58.8826,68.98289 q 21.275099,-1.7192 36.7479,-15.2579 l -22.7794,-23.20919 q -6.2321,4.9427 -13.9685,6.2321 z m 36.7479,-113.0374 q -15.2579,-12.893992 -36.7479,-14.828092 v 32.449902 q 7.5215,1.2894 13.5387,6.0172 z m -10.745,54.58461 q -1.2894,7.9513 -5.3725,13.3238 l 22.7794,23.20919 q 13.5387,-15.47279 15.4728,-36.53299 z M 12.3993,185.58002 q -6.6619005,-1.2894 -13.7536005,-5.5874 l -22.5644985,22.77939 q 16.1174985,13.5387 36.318099,15.043 z m -20.6304005,-12.4642 q -4.7277995,-5.8023 -6.0171985,-13.7536 h -31.8052 q 1.5043,20.8453 15.2579,36.53299 z M 12.3993,89.949518 q -20.4155005,1.9341 -35.673399,14.613192 l 22.3495985,22.99431 q 5.3725,-4.0831 13.3238005,-5.3725 z M 59.892199,202.55711 q 0.8596,-0.6447 1.7192,-1.5043 0.8596,-0.8596 1.7192,-1.7192 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'ESRI AMFM Water';-inkscape-font-specification:'ESRI AMFM Water';fill:#ff8c00;stroke-width:5.37251"
+         id="path2025" />
+    </g>
+  </g>
+</svg>
